@@ -5,8 +5,8 @@ import requests
 import websockets
 
 TOKEN = os.getenv("TOKEN")
-GUILD_ID = "1357465064499712163"
-CHANNEL_ID = "1486461566554472579"
+GUILD_ID = "1515086899872796822"
+CHANNEL_ID = "1542267889644478505"
 
 STATUS = "online"  # online / dnd / idle
 SELF_MUTE = True
