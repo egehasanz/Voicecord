@@ -122,7 +122,7 @@ async def main():
                     "since": int(time.time() * 1000),
                     "activities": [
                         {{
-                            "name": "/aslanler Voice System,
+                            "name": "Custom Rich Presence",
                             "type": 0,
                             "details": RPC_DETAILS,
                             "state": RPC_STATE,
